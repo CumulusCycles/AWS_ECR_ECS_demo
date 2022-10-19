@@ -1,2 +1,2 @@
 # AWS_ECR_ECS_demo
-Code for AWS ECR / ECS video
+Repo for the AWS ECR / ECS [Demo Video](https://www.youtube.com/watch?v=NmS8xZiYWDU).
